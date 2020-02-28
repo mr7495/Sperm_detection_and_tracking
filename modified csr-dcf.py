@@ -1019,6 +1019,7 @@ def track_tail1(video,track1,anno):
                   Y2=int(anno[i][1]+10)
                   cv2.rectangle(frame,(X1,Y1),(X2,Y2),(255,255,255))
             cv2.imshow("Frame", frame)
+            #cv2.imwrite("f{}.jpg".format(i),frame)
             key=cv2.waitKey(1000)&0xFF
             if key==ord('q'): # Press q to break
                   break
