@@ -8,6 +8,6 @@ This is a result of excellent performance of this tracker.
 The main code is in the modified csr-dcf.py file.
 A sample of our Ground-truth data is also shared in annotation sample.csv.
 
-Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv.
+Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
 You can contact the developer by this email : mr7495@yahoo.com
