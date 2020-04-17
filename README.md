@@ -33,10 +33,12 @@ A sample of our Ground-truth data is also shared in annotation sample.csv.
 Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
 If you find our work effective, you can cite our paper by:
+
 @article{rahimzadeh2020sperm,
   title={Sperm detection and tracking in phase-contrast microscopy image sequences using deep learning and modified CSR-DCF},
   author={Rahimzadeh, Mohammad and Attar, Abolfazl and others},
   journal={arXiv preprint arXiv:2002.04034},
   year={2020}
 }
+
 You can contact the developer by this email : mr7495@yahoo.com
