@@ -44,6 +44,7 @@ We have tested our tracker on the 9 video samples of sperms with the detections 
 The comparison table between our proposed tracker and CSR-DCF
 
 
+
 **The main code is in the modified csr-dcf.py file.**
 
 **The code for extracting motility parameters is available on Github_motility_parameters_extractor.py.**
