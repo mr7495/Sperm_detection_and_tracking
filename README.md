@@ -39,6 +39,8 @@ This is a result of excellent performance of this tracker.
 
 **The main code is in the modified csr-dcf.py file.**
 
+**The code for extracting motility parameters is available on Github_motility_parameters_extractor.py.**
+
 A sample of our Ground-truth data is also shared in annotation sample.csv.
 
 The next figures show some of the tracked sperms:
