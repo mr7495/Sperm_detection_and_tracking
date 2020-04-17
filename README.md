@@ -47,7 +47,7 @@ The next figures show some of the tracked sperms:
 
 <img src="/images/tracka-1.jpg" width="50%"><img src="/images/trackb-1.jpg" width="50%">
 
-Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
+**Our trained neural network based on 3 concatenated frames have been shared on:** https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
 If you find our work effective, you can cite our paper by:
 
