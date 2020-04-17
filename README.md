@@ -25,10 +25,16 @@ investigating sperm behavior and analyzing fertility possibility.
 
 
 The modified CSR-DCF is a multi target tracker that uses CSR-DCF tracker as its core and works with both of tracking algorithms and the detected objects of the video frames.
+
+The graphical abstract of our paper is presented in the next figure:
+
+<img src="/images/graphical_abstract-1.jpg" width="30%">
+
 We have tested our tracker on the 9 video samples of sperms with the detections and achieved 96.46% F1 score and also we have tested it on 36 videos with the ground truth instead of the detections and the results have shown 100% accuracy with no false track based on our evaluation method.
 This is a result of excellent performance of this tracker.
 The main code is in the modified csr-dcf.py file.
 A sample of our Ground-truth data is also shared in annotation sample.csv.
+
 
 Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
