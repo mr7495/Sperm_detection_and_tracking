@@ -34,11 +34,12 @@ The graphical abstract of our paper is presented in the next figure:
 	<em>Graphical Abstract</em>
 </p>
 
-We have tested our tracker on the 9 video samples of sperms with the detections and achieved 96.46% F1 score and also we have tested it on 36 videos with the ground truth instead of the detections and the results have shown 100% accuracy with no false track based on our evaluation method.
+We have tested our tracker on the 9 video samples of sperms with the detections and achieved 96.61% F1 score and also we have tested it on 36 videos with the ground truth instead of the detections and the results have shown 100% accuracy with no false track based on our evaluation method.
 This is a result of excellent performance of this tracker.
 The main code is in the modified csr-dcf.py file.
 A sample of our Ground-truth data is also shared in annotation sample.csv.
 
+<img src="/images/tracka-1.jpg" width="50%"><img src="/images/trackb-1.jpg" width="50%">
 
 Our trained neural network based on 3 concatenated frames have been shared on: https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
