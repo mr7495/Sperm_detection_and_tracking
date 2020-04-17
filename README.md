@@ -28,7 +28,11 @@ The modified CSR-DCF is a multi target tracker that uses CSR-DCF tracker as its 
 
 The graphical abstract of our paper is presented in the next figure:
 
-<img src="/images/graphical_abstract-1.jpg" width="80%">
+<p align="center">
+	<img src="images/graphical_abstract-1.jpg" alt="photo not available" width="80%" height="70%">
+	<br>
+	<em>Graphical Abstract</em>
+</p>
 
 We have tested our tracker on the 9 video samples of sperms with the detections and achieved 96.46% F1 score and also we have tested it on 36 videos with the ground truth instead of the detections and the results have shown 100% accuracy with no false track based on our evaluation method.
 This is a result of excellent performance of this tracker.
