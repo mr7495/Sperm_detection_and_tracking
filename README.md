@@ -55,9 +55,16 @@ The next figures show some of the tracked sperms:
 
 <img src="/images/tracka-1.jpg" width="50%"><img src="/images/trackb-1.jpg" width="50%">
 
-**Our trained neural network based on 3 concatenated frames have been shared on:** 
+**The training model of our trained neural network based on 3 concatenated frames have been shared on:** 
+
+https://drive.google.com/file/d/14ufFO8GKbE5Qlrm3wloHKQcsnudwHeSR/view?usp=sharing
+
+
+**The inference version of our trained neural network based on 3 concatenated frames have been shared on:** 
 
 https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
+
+You can refer to https://github.com/fizyr/keras-retinanet to learn more about the differences between the training and inference models.
 
 If you find our work effective, you can cite our paper by:
 
