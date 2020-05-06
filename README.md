@@ -24,7 +24,7 @@ the F1 score of the tracking method evaluation is 96.61%. These results can be a
 investigating sperm behavior and analyzing fertility possibility.
 
 
-The modified CSR-DCF is a multi target tracker that uses CSR-DCF tracker as its core and works with both of tracking algorithms and the detected objects of the video frames.
+The [modified CSR-DCF](modified csr-dcf.py) is a multi target tracker that uses CSR-DCF tracker as its core and works with both of tracking algorithms and the detected objects of the video frames.
 
 The graphical abstract of our paper is presented in the next figure:
 
@@ -45,9 +45,9 @@ The comparison table between our proposed tracker and CSR-DCF
 
 
 
-**The main code is in the modified csr-dcf.py file.**
+**The main code is in the modified [csr-dcf.py](modified csr-dcf.py) file.**
 
-**The code for extracting motility parameters is available on Github_motility_parameters_extractor.py.**
+**The code for extracting motility parameters is available on [Github_motility_parameters_extractor.py](Github_motility_parameters_extractor.py).**
 
 A sample of our Ground-truth data is also shared in annotation sample.csv.
 
