@@ -47,6 +47,9 @@ The comparison table between our proposed tracker and CSR-DCF
 
 **The main code is in the modified [csr-dcf.py](modified_csr-dcf.py) file.**
 
+**You need the csv file of the detected sperms in the input video to run modified_csr-dcf.py and so you can use [https://github.com/mr7495/RetinaNet_Motile_objects_Detection/blob/master/RetinaNet_testing_on_video(For_counting).ipynb](https://github.com/mr7495/RetinaNet_Motile_objects_Detection/blob/master/RetinaNet_testing_on_video(For_counting).ipynb) 
+for generating the csv file.**
+
 **The code for extracting motility parameters is available on [Github_motility_parameters_extractor.py](Github_motility_parameters_extractor.py).**
 
 A sample of our Ground-truth data is also shared in annotation sample.csv.
