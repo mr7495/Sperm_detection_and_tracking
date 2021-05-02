@@ -1,9 +1,5 @@
 # Sperm detection and tracking in phase-contrast microscopy image sequences using deep learning and modified CSR-DCF
 
-This folder contains tracking algorithms and the code used in this paper : https://arxiv.org/abs/2002.04034
-
-The code used for improving motile objects detection accuracy on RetinaNet (the detection phase of the paper) is available on https://github.com/mr7495/RetinaNet_Motile_objects_Detection.
-
 
 Nowadays, computer-aided sperm analysis (CASA) systems have made a big leap in extracting
 the characteristics of spermatozoa for studies or measuring human fertility. The first step in sperm
@@ -23,6 +19,9 @@ a frame and re-enter in the next frames. The average precision of the detection 
 the F1 score of the tracking method evaluation is 96.61%. These results can be a great help in studies
 investigating sperm behavior and analyzing fertility possibility.
 
+**Source paper : https://arxiv.org/abs/2002.04034**
+
+The code used for improving motile objects detection on RetinaNet (the detection phase of the paper) is available at https://github.com/mr7495/RetinaNet_Motile_objects_Detection.
 
 The [modified CSR-DCF](modified_csr-dcf.py) is a multi target tracker that uses CSR-DCF tracker as its core and works with both of tracking algorithms and the detected objects of the video frames.
 
