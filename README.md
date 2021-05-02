@@ -68,7 +68,7 @@ https://drive.google.com/open?id=1pN3A-tWJOphRdTZ7cPhJTnTIhoiGrcWv
 
 You can refer to https://github.com/fizyr/keras-retinanet to learn more about the differences between the training and inference models.
 
-If you find our work effective, you can cite our paper by:
+If you find our work effective, please cite it by:
 
 ```
 @article{rahimzadeh2020sperm,
