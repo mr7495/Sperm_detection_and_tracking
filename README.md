@@ -51,7 +51,7 @@ for generating the csv file.**
 
 **The code for extracting motility parameters is available on [Github_motility_parameters_extractor.py](Github_motility_parameters_extractor.py).**
 
-A sample of our Ground-truth data is also shared in annotation sample.csv.
+A sample of our Ground-truth data is also shared in annotation [sample.csv](sample.csv).
 
 The next figures show some of the tracked sperms:
 
