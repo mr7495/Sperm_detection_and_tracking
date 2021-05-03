@@ -1,25 +1,9 @@
 # Sperm detection and tracking in phase-contrast microscopy image sequences using deep learning and modified CSR-DCF
 
 
-Nowadays, computer-aided sperm analysis (CASA) systems have made a big leap in extracting
-the characteristics of spermatozoa for studies or measuring human fertility. The first step in sperm
-characteristics analysis is sperm detection in the frames of the video sample. In this article, we used
-RetinaNet, a deep fully convolutional neural network, as the object detector. Sperms are small objects
-with few attributes, that makes the detection more difficult in high-density samples and especially
-when there are other particles in semen, which could be like sperm heads. One of the main attributes
-of sperms is their movement, but this attribute cannot be extracted when only one frame would be
-fed to the network. To improve the performance of the sperm detection network, we concatenated
-some consecutive frames to use as the input of the network. With this method, the motility attribute
-has also been extracted, and then with the help of the deep convolutional network, we have achieved
-high accuracy in sperm detection. The second step is tracking the sperms, for extracting the motility
-parameters that are essential for indicating fertility and other studies on sperms. In the tracking
-phase, we modify the CSR-DCF algorithm. This method also has shown excellent results in sperm
-tracking even in high-density sperm samples, occlusions, sperm colliding, and when sperms exit from
-a frame and re-enter in the next frames. The average precision of the detection phase is 99.1%, and
-the F1 score of the tracking method evaluation is 96.61%. These results can be a great help in studies
-investigating sperm behavior and analyzing fertility possibility.
+This repo presents the code of **the paper [arxiv.org/abs/2002.04034](https://arxiv.org/abs/2002.04034)**
+Our developed modified CSR-DCF multi-tracker for tracking sperms in video frames is described in this repo. This algorithm has shown significant results in challenging conditions.
 
-**Source paper : https://arxiv.org/abs/2002.04034**
 
 The code used for improving motile objects detection on RetinaNet (the detection phase of the paper) is available at https://github.com/mr7495/RetinaNet_Motile_objects_Detection.
 
